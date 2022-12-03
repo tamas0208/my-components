@@ -1,2 +1,2 @@
 # my-components
-my components for websites
+my sample components for websites
