@@ -1,0 +1,1 @@
+Sticky-footer-1 absolute position sample project.
